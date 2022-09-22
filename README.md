@@ -14,5 +14,5 @@ Any tips for streamlining and best practices are highly appreciated
 
 This project was mostly a review of things I already knew, however I learned how to use 2 different pictures in a media querry by setting the display of one picture to hidden and then swapping the displays around in the media querry.
 
-![Solution](./solution/desktop-solution.png)
+![Solution](product-preview-card-component-main/solution/desktop-solution.PNG)
 
