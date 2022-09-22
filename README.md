@@ -17,5 +17,5 @@ This project was mostly a review of things I already knew, however I learned how
 ### Solution
 
 ![Solution](product-preview-card-component-main/solution/desktop-solution.PNG)
-![Solution](product-preview-card-component-main/solution/mobile-solution.PNG)
+![Solution](product-preview-card-component-main/solution/mobile-solution.png)
 
