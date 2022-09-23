@@ -16,6 +16,8 @@ This project was mostly a review of things I already knew, however I learned how
 
 ### Solution
 
+https://htmlpreview.github.io/?https://github.com/Masteraya/Product-preview-card-component---frontendmentor/blob/36365d5a91720979ef5430992b4cc77b2f3b866e/product-preview-card-component-main/index.html
+
 ![Solution](product-preview-card-component-main/solution/desktop-solution.PNG)
 
 ### Mobile
